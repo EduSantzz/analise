@@ -13,4 +13,4 @@
 - Não tem como personalizar alguma plataforma, exemplo, colocar que um game foi zerado pelo Emulador
 - Aplicativo as vezes crasha aleatoriamente
 - Servidor instavel
-- Se ir na aba "Geral" para ver todos seus games, eles ficam todos misturados, não tem como ver na mesma página eles separados por plataforma
+- Tem apenas aplicativo no IOS, não tem uma versão WEB
